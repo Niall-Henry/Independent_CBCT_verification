@@ -3,4 +3,4 @@ This work stems from my MSc in Medical Physics research project 'Independent Ver
 
 The code presented was developed over the summer of 2023 and the accompanying technical note is a condensed version of the thesis presented for the MSc project.  This code was developed for use with clincial scan protocols and this may not be appliable to all settings.  
 
-Users are encouraged to adapt the code as necessary, on the condition we are let know it is in use.
+Users are encouraged to adapt the code as necessary, on the condition we are let know it is in use.  The code is presented as is, and cannot be guaranteed to be error free.
